@@ -1,0 +1,24 @@
+{
+  "cards": [
+      {
+         "id": 1, 
+         "title": "News 1",
+         "content": "This is the content of my card 1"
+      },
+      {
+         "id": 2, 
+         "title": "News 2",
+         "content": "This is the content of my card 2"
+      },
+      {
+         "id": 3, 
+         "title": "News 3",
+         "content": "This is the content of my card 3"
+      },
+      {
+         "id": 4, 
+         "title": "News 4",
+         "content": "This is the content of my card 4"
+      }
+  ]
+}
